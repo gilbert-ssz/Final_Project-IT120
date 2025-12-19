@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "642062146388",
+    "firebase_url": "https://semana-rootgoods-f939c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "semana-rootgoods-f939c",
+    "storage_bucket": "semana-rootgoods-f939c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642062146388:android:48ad6efd056cb6855446c1",
+        "android_client_info": {
+          "package_name": "com.example.my_tflite_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVMZKGFGTUY8AO8sFS-Z8aghkEcpXPick"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
